@@ -1,0 +1,17 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+140.238.214.247,443,true,ZRH,Europe,Zurich,175 ms,9436 kB/s
+130.162.162.221,443,true,FRA,Europe,Frankfurt,203 ms,8145 kB/s
+130.61.222.184,443,true,FRA,Europe,Frankfurt,189 ms,7998 kB/s
+130.162.166.9,443,true,FRA,Europe,Frankfurt,199 ms,7591 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,73 ms,7271 kB/s
+132.226.114.74,443,true,LAX,North America,Los Angeles,369 ms,6327 kB/s
+8.209.250.150,443,true,SJC,North America,San Jose,59 ms,1158 kB/s
+47.88.93.96,443,true,SJC,North America,San Jose,206 ms,900 kB/s
+47.254.157.208,443,true,SJC,North America,San Jose,231 ms,813 kB/s
+141.147.95.90,443,true,FRA,Europe,Frankfurt,284 ms,710 kB/s
+8.211.197.133,443,true,SJC,North America,San Jose,233 ms,669 kB/s
+129.151.254.48,443,true,MRS,Europe,Marseille,223 ms,304 kB/s
+8.217.179.196,443,true,SIN,Asia Pacific,Singapore,38 ms,68 kB/s
+193.123.62.153,443,true,AMS,Europe,Amsterdam,204 ms,0 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,213 ms,0 kB/s
+168.138.215.251,443,true,NRT,Asia Pacific,Tokyo,175 ms,0 kB/s
