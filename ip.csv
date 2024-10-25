@@ -1,5 +1,0 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-130.61.107.238,8443,443,TRUE,FRA,Europe,Frankfurt,180 ms,10915 kB/s
-129.159.132.0,8443,443,TRUE,MRS,Europe,Marseille,211 ms,6764 kB/s
-204.216.105.106,8443,443,TRUE,YUL,North America,Montréal,229 ms,6261 kB/s
-132.226.163.224,8443,443,TRUE,GRU,South America,S?o Paulo,403 ms,3 kB/s
